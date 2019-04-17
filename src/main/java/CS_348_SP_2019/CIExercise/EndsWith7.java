@@ -9,6 +9,8 @@ public class EndsWith7 {
 		// names+= "John Smith\n";
 		
 		names+= "Tim Mesite\n";
+		 names+= "James Denesha\n";
+
 
 	}
 
